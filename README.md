@@ -1,0 +1,2 @@
+# Integrated-Sales-and-Employee-Management-System-
+This SQL project manages employees, customers, sales, purchases, salaries, expenses, and profits. It calculates attendance-based salaries, tracks payments, links sales to salesmen, and computes daily profits. Advanced queries provide business insights using joins, subqueries, and aggregates.
